@@ -1,0 +1,8 @@
+.topHeader {
+    text-align: center;
+}
+
+.marginenlarge {
+    margin: auto;
+    width: 400px;
+}
